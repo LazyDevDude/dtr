@@ -1,4 +1,4 @@
-# Jovagne's OJT DTR - Daily Time Record System
+# OJT DTR - Daily Time Record System
 
 A super-simple, personal-use-only DTR web app for OJT time tracking on localhost XAMPP. No login required, session-based tracking with optional database storage for monthly summaries.
 
@@ -233,7 +233,7 @@ Free for personal use. No warranty provided.
 
 ## 👨‍💻 Author
 
-Created for Jovagne's OJT at Luna LGU
+Created for OJT
 
 ---
 
@@ -263,3 +263,4 @@ Created for Jovagne's OJT at Luna LGU
 | Check OT | Look for red OT badge |
 
 Happy time tracking! 🎉
+
