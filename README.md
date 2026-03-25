@@ -1,4 +1,4 @@
-# Jovagne's OJT DTR - Daily Time Record System
+# OJT DTR - Daily Time Record System
 
 A super-simple, personal-use-only DTR web app for OJT time tracking on localhost XAMPP. No login required, session-based tracking with optional database storage for monthly summaries.
 
